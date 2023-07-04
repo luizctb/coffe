@@ -1,4 +1,4 @@
-import { ChangeEvent, SelectHTMLAttributes, useContext } from 'react'
+import { ChangeEvent, useContext } from 'react'
 import { CoffeContext, FilterProps } from '../../../../context/CoffeContext'
 import { databutton } from '../../../../mocks/buttonFilter'
 import { FilterContent, OptionsFilter } from './styles'
