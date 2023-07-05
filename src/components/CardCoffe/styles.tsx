@@ -1,6 +1,4 @@
 import styled from 'styled-components'
-import { CardCoffe, Tag, Description } from './styles';
-import { Actions } from './../NavBar/styles';
 
 export const CardCoffe = styled.div`
   background: ${(props) => props.theme.color['base-card']};

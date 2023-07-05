@@ -36,7 +36,7 @@ export function NavBar({ toggleTheme, stateDark }: Props) {
         <Actions>
           <Location>
             <MapPin weight="fill" size={22} />
-            Luziânia, GO
+            Pouso Alegre, MG
           </Location>
           <CardToggle onClick={toggleTheme}>
             {stateDark ? (

@@ -2,7 +2,7 @@ import { Coffee, Package, ShoppingCart, Timer } from 'phosphor-react'
 import imageCoffe from '../../../../assets/imagem-coffe.svg'
 import {
   Collum,
-  Content,
+  HomeContent,
   HeaderContainer,
   IconBox,
   IconClock,
@@ -16,7 +16,7 @@ import {
 export function Header() {
   return (
     <HeaderContainer>
-      <Content>
+      <HomeContent>
         <div>
           <Title>
             <h1>Encontre o café perfeito para qualquer hora do dia</h1>
@@ -57,7 +57,7 @@ export function Header() {
           </Items>
         </div>
         <img src={imageCoffe} alt="" />
-      </Content>
+      </HomeContent>
     </HeaderContainer>
   )
 }

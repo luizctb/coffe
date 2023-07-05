@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { InfoCoffe, ActionsCar } from './styles';
 
 export const InfoCoffe = styled.div`
   background: ${(props) => props.theme.color['base-card']};

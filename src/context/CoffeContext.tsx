@@ -44,7 +44,7 @@ interface CoffeContetexProviderProps {
 export function CoffeContextProvider({ children }: CoffeContetexProviderProps) {
   const [delivery, setDeliveryState] = useState<OrderInfos[]>([])
   const [newCartCard, setCreatNewCartCard] = useState<cardProps[]>([])
-  const [Filter, setFilter] = useState<FilterProps>('Todos')
+  const [filter, setFilter] = useState<FilterProps>('Todos')
 
   const lengthNavBarCartCard = newCartCard.length
 
