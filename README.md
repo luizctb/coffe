@@ -2,7 +2,11 @@
 
 Projeto construído para aplicação dos estudos Ignite. É uma aplicação de fluxo de compra on-line, que contém um catálogo de produtos, podendo adicionar a quantidade de café de sua preferência e preencher o formulário de entrega.
 
-## Tecnologias
+![preview](./.github/preview.png)
+
+[🔗Clique aqui para acessar](https://luizctb.github.io/coffe)
+
+## 🛠️ Tecnologias 
 
 - [Vite](https://vitejs.dev/)
 - [React](https://pt-br.reactjs.org/)
@@ -11,5 +15,5 @@ Projeto construído para aplicação dos estudos Ignite. É uma aplicação de f
 - [Styled Components](https://styled-components.com/)
 - [ESLint](https://eslint.org/)
 
-E-mail: luizcarlostb@hotmail.com
-Github: https://github.com/luizctb/coffe
+E-mail:💻 luizcarlostb@hotmail.com
+[Github:](https://github.com/luizctb/coffe)
